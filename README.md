@@ -1,4 +1,4 @@
 # techathon
-this is a repository for techathon project
-leader - Manya
-author - Taher, Vidhi, Manya
+This is a repository for techathon project<br>
+Leader - Manya<br>
+Author - Taher, Vidhi, Manya<br>
